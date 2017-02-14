@@ -1,0 +1,2 @@
+# Streeter-Phelps
+The Streeter–Phelps equation is used in the study of water pollution as a water quality modelling tool. The model describes how dissolved oxygen (DO) decreases in a river or stream along a certain distance by degradation of biochemical oxygen demand (BOD). The equation was derived by H. W. Streeter, a sanitary engineer, and Earle B. Phelps, a consultant for the U.S. Public Health Service, in 1925, based on field data from the Ohio River. The equation is also known as the DO sag equation.
